@@ -3,10 +3,11 @@
 <ul>
   <li>💻 Dev back-end </li>
   <li>🎓 Formada em Ciência da computação na Unifran</li>
-  <li>👩‍💻 Estudando reactJs, NextJs e NodeJs </li>
+  <li>👩‍💻 Estudando ReactJs, NextJs e NodeJs </li>
 </ul>
 
-<div align="center"
+<div align="center">
+  <a href="https://github.com/gabrielymcorrea">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielymcorrea&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
@@ -17,7 +18,10 @@
   <a href = "mailto:gabrielymcorrea@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<!-- ## Tecnologia usada diariamente
-<div align="center"
-  <img height="180em" src=""/>
-</div> -->
+## Trabalhando hoje
+<div>
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+</div>
