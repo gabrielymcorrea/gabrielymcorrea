@@ -3,7 +3,7 @@
 <ul>
   <li>💻 Dev back-end Júnior</li>
   <li>🎓 Formada em Ciência da computação na Unifran</li>
-  <li>👩‍💻 Estudando ReactJs, NextJs e NodeJs </li>
+  <li>👩‍💻 Estudando Vue.js </li>
 </ul>
 
 <div align="center">
