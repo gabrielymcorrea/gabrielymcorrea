@@ -1,9 +1,8 @@
 ## Olá, sou Gabriely
 
 <ul>
-  <li>💻 Dev back-end Júnior</li>
+  <li>💻 Dev back-end</li>
   <li>🎓 Formada em Ciência da computação na Unifran</li>
-  <li>👩‍💻 Estudando Vue.js </li>
 </ul>
 
 <div align="center">
