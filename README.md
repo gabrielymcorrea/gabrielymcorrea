@@ -1,7 +1,7 @@
 ## Hi 👋
 
 <ul>
-  <li>💻 Dev back-end</li>
+  <li>💻 Developer back-end | PHP </li>
   <li>🎓 Formada em Ciência da computação na Unifran</li>
 </ul>
 
