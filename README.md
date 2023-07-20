@@ -2,7 +2,7 @@
 
 <ul>
   <li>💻 Developer back-end | PHP </li>
-  <li>🎓 Formada em Ciência da computação na Unifran</li>
+  <li>🎓 Formada em Ciência da computação na universidade de Franca - UNIFRAN </li>
 </ul>
 
 <div align="center">
