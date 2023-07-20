@@ -1,4 +1,4 @@
-## Olá, sou Gabriely
+## Hi 👋
 
 <ul>
   <li>💻 Dev back-end</li>
