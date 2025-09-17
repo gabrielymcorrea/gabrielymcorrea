@@ -1,14 +1,9 @@
 ## Hi 👋
 
 <ul>
-  <li>💻 Developer back-end | PHP </li>
+  <li>💻 Developer back-end PHP </li>
   <li>🎓 Formada em Ciência da computação na universidade de Franca - UNIFRAN </li>
 </ul>
-
-<div align="center">
-  <a href="https://github.com/gabrielymcorrea">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielymcorrea&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 ## Contato
   
